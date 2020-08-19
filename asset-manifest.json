@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArmashXD/snake-game/static/css/main.bece389a.chunk.css",
+    "main.js": "/ArmashXD/snake-game/static/js/main.1e018dad.chunk.js",
+    "main.js.map": "/ArmashXD/snake-game/static/js/main.1e018dad.chunk.js.map",
+    "runtime-main.js": "/ArmashXD/snake-game/static/js/runtime-main.ac4de636.js",
+    "runtime-main.js.map": "/ArmashXD/snake-game/static/js/runtime-main.ac4de636.js.map",
+    "static/js/2.6f476254.chunk.js": "/ArmashXD/snake-game/static/js/2.6f476254.chunk.js",
+    "static/js/2.6f476254.chunk.js.map": "/ArmashXD/snake-game/static/js/2.6f476254.chunk.js.map",
+    "index.html": "/ArmashXD/snake-game/index.html",
+    "precache-manifest.2e00e2f82c5fef840cf0cc8b9a5e619b.js": "/ArmashXD/snake-game/precache-manifest.2e00e2f82c5fef840cf0cc8b9a5e619b.js",
+    "service-worker.js": "/ArmashXD/snake-game/service-worker.js",
+    "static/css/main.bece389a.chunk.css.map": "/ArmashXD/snake-game/static/css/main.bece389a.chunk.css.map",
+    "static/js/2.6f476254.chunk.js.LICENSE.txt": "/ArmashXD/snake-game/static/js/2.6f476254.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4de636.js",
+    "static/js/2.6f476254.chunk.js",
+    "static/css/main.bece389a.chunk.css",
+    "static/js/main.1e018dad.chunk.js"
+  ]
+}
