@@ -1,7 +1,6 @@
 import React from "react";
 import Snake from "./components/Snake";
 import Food from "./components/Food";
-import swal from "sweetalert";
 
 import { Component } from "react";
 import { Container } from "react-bootstrap";
@@ -28,7 +27,7 @@ const initialState = {
 class App extends Component {
   state = initialState;
   componentDidMount() {
-    //  setInterval(this.moveSnake, this.state.speed);
+    setInterval(this.moveSnake, this.state.speed);
     document.onkeydown = this.onKeyDown;
   }
 
